@@ -1,0 +1,35 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+:root{
+background-color: #75aec3;
+font-size: 16px;
+color: white;
+box-sizing: border-box;
+}
+
+h1{
+	margin-bottom: 2rem;
+	font-size: 3rem;
+	text-align: center;
+}
+.contenedor{
+	width: 78.75rem;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+	font-size: 2rem;
+}
+.caja{
+	width:18.75rem;
+	height: 18.75rem;
+	
+}
+.uno{
+	color: #fcf419;
+	background-color: #fe0000;
+}
+.dos{
+	background-color: #000000;
+}
